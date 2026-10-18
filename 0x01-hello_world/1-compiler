@@ -1,0 +1,10 @@
+
+
+/**
+ * Author: Stephen Afolabi
+ * Program: winmig=ngle commununity C training 
+ * Description: Compiles a C file without linking, outputting a .o file with the same name
+ */
+
+#!/bin/bash
+gcc -c "$FILE" 

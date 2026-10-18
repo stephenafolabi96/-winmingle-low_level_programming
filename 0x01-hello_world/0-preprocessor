@@ -1,0 +1,11 @@
+
+/**
+ * stpe/**
+ * Stephen Afolabi
+ * Program: WinMingle Community C Training
+ * Description: This is progragramme that runs through c and stores on c
+ */
+
+#!/bin/bash
+gcc -E "$FILE" -o c
+
